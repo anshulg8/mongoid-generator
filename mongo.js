@@ -22,5 +22,5 @@ output.onclick = function() {
 
 notice.onclick = function() {
   this.classList.remove('show')
-  output.value = null
+  // output.value = null
 }
