@@ -16,7 +16,7 @@ output.onclick = function() {
     notice.classList.add('show')
     window.setTimeout(function(){
       notice.classList.remove('show')
-      output.value = null
+      // output.value = null
     },1000)
 }
 
